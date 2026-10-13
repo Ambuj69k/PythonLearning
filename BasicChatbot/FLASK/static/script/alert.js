@@ -1,0 +1,1 @@
+alert("aa gaye mere maut ka tamasha dekhne")

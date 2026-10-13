@@ -1,0 +1,15 @@
+langgraph 
+langchain
+langsmith
+python-dotenv
+langchain_groq
+langchain_tavily
+langchain_mcp_adapters
+mcp
+langgraph-cli[inmem]
+flask
+fastapi
+pydantic
+sqlalchemy
+psycopg2
+alembic

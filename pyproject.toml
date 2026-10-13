@@ -1,0 +1,31 @@
+[project]
+name = "raglangrahp"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "alembic>=1.20.0",
+    "faiss-cpu>=1.15.1",
+    "fastapi>=0.143.0",
+    "flask>=3.1.3",
+    "ipykernel>=7.3.0",
+    "langchain>=1.4.2",
+    "langchain-community>=0.4.2",
+    "langchain-google-genai>=4.4.0",
+    "langchain-groq>=1.1.3",
+    "langchain-mcp-adapters>=0.3.2",
+    "langchain-tavily>=0.2.18",
+    "langgraph>=1.2.12",
+    "langgraph-cli[inmem]>=0.4.32",
+    "langsmith>=0.14.0",
+    "lxml>=6.1.3",
+    "mcp>=1.30.0",
+    "psycopg2>=2.9.13",
+    "pydantic>=2.13.5",
+    "python-dotenv>=1.2.3",
+    "requests>=2.34.2",
+    "seaborn>=0.13.2",
+    "sqlalchemy>=2.0.54",
+    "streamlit>=1.64.0",
+]
